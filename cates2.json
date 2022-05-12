@@ -1,0 +1,1306 @@
+[
+  {
+    "name": "Dị Năng",
+    "_id": "6276bdd6b624177e66fccd63",
+    "slug": "di-nang",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6898"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a6"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c8"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hài Hước",
+    "_id": "6276bdd6b624177e66fccd64",
+    "slug": "hai-huoc",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688d"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688e"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6892"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689e"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ba"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cc"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hiện Đại",
+    "_id": "6276bdd6b624177e66fccd65",
+    "slug": "hien-dai",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688f"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6898"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bc"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cơ trí",
+    "_id": "6276bdd6b624177e66fccd66",
+    "slug": "co-tri",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6893"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Huyền Huyễn",
+    "_id": "6276bdd6b624177e66fccd67",
+    "slug": "huyen-huyen",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6892"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6893"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6895"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6896"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6897"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6898"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6899"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689b"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689e"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68aa"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ab"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ac"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ad"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ba"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bd"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68be"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ce"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cf"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ngôn Tình",
+    "_id": "6276bdd6b624177e66fccd68",
+    "slug": "ngon-tinh",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": []
+  },
+  {
+    "name": "Lịch Sử",
+    "_id": "6276bdd6b624177e66fccd69",
+    "slug": "lich-su",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c5"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Trọng Sinh",
+    "_id": "6276bdd6b624177e66fccd6a",
+    "slug": "trong-sinh",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6892"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6895"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ce"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Đô thị dị năng",
+    "_id": "6276bdd6b624177e66fccd6b",
+    "slug": "do-thi-di-nang",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6898"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Chiến Tranh",
+    "_id": "6276bdd6b624177e66fccd6c",
+    "slug": "chien-tranh",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": []
+  },
+  {
+    "name": "Hư nghĩ võng du",
+    "_id": "6276bdd6b624177e66fccd6d",
+    "slug": "hu-nghi-vong-du",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b6"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Quân Sự",
+    "_id": "6276bdd6b624177e66fccd6e",
+    "slug": "quan-su",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bd"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68be"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sảng văn",
+    "_id": "6276bdd6b624177e66fccd6f",
+    "slug": "sang-van",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b6"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dị Giới",
+    "_id": "6276bdd6b624177e66fccd70",
+    "slug": "di-gioi",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6894"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Quan Trường",
+    "_id": "6276bdd6b624177e66fccd71",
+    "slug": "quan-truong",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": []
+  },
+  {
+    "name": "Sắc Hiệp",
+    "_id": "6276bdd6b624177e66fccd72",
+    "slug": "sac-hiep",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689f"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a1"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Đô Thị",
+    "_id": "6276bdd6b624177e66fccd73",
+    "slug": "do-thi",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688f"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6894"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6898"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689f"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a6"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68af"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Ngược",
+    "_id": "6276bdd6b624177e66fccd74",
+    "slug": "nguoc",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": []
+  },
+  {
+    "name": "Mạt Thế",
+    "_id": "6276bdd6b624177e66fccd75",
+    "slug": "mat-the",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6894"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bc"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tùy thân",
+    "_id": "6276bdd6b624177e66fccd76",
+    "slug": "tuy-than",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": []
+  },
+  {
+    "name": "Đồng Nhân",
+    "_id": "6276bdd6b624177e66fccd77",
+    "slug": "dong-nhan",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": []
+  },
+  {
+    "name": "Vô sỉ",
+    "_id": "6276bdd6b624177e66fccd78",
+    "slug": "vo-si",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689b"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b6"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Phản Phái",
+    "_id": "6276bdd6b624177e66fccd79",
+    "slug": "phan-phai",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6896"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ae"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bb"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Linh Dị",
+    "_id": "6276bdd6b624177e66fccd7a",
+    "slug": "linh-di",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b0"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Khoa Huyễn",
+    "_id": "6276bdd6b624177e66fccd7b",
+    "slug": "khoa-huyen",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689d"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68af"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bd"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68be"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hồng Hoang",
+    "_id": "6276bdd6b624177e66fccd7c",
+    "slug": "hong-hoang",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Võng Du",
+    "_id": "6276bdd6b624177e66fccd7d",
+    "slug": "vong-du",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6896"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68af"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c6"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Hệ Thống",
+    "_id": "6276bdd6b624177e66fccd7e",
+    "slug": "he-thong",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688f"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6892"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6894"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689b"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689e"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68aa"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ab"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ae"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ba"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bc"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c8"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cd"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Xuyên Không",
+    "_id": "6276bdd6b624177e66fccd7f",
+    "slug": "xuyen-khong",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6896"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6897"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689a"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689c"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689e"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68bd"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68be"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cd"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cf"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Trinh Thám",
+    "_id": "6276bdd6b624177e66fccd80",
+    "slug": "trinh-tham",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689a"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cf"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tiên Hiệp",
+    "_id": "6276bdd6b624177e66fccd81",
+    "slug": "tien-hiep",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688d"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd688e"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6890"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6891"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6894"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6895"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6896"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd6899"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689a"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd689f"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ae"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68af"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b6"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68b9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c1"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68c7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ca"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cc"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cd"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68ce"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68cf"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Điền Văn",
+    "_id": "6276bdd6b624177e66fccd82",
+    "slug": "dien-van",
+    "__v": 0,
+    "updatedAt": "2022-05-06T15:46:36.423Z",
+    "createdAt": "2022-05-06T15:46:36.423Z",
+    "books": [
+      {
+        "_id": {
+          "$oid": "627cdc45f5c188f32dbd68a5"
+        }
+      }
+    ]
+  }
+]
